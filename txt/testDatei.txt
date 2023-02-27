@@ -1,0 +1,4 @@
+ID: [1]  PKW | Mercedes-Benz | C-Klasse | 1886 | Schwarz | 1,1  € | 
+ID: [2]  PKW | Volkswagen | Golf | 1887 | Blau | 2,2  € | 
+ID: [3]  LKW | Mercedes-Benz | Actros | 1888 | Braun | 3,3  € | 
+ID: [4]  LKW | Volkswagen | Crafter | 1889 | Gelb | 4,4  € | 
